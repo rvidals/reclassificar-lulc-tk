@@ -115,5 +115,3 @@ Projeto sugerido para licença MIT. Adicione um arquivo LICENSE se concordar.
 Contato
 -------
 Abra uma issue no repositório ou envie um pull request. Se preferir, inclua um CONTRIBUTING.md com diretrizes de contribuição.
-
-```
